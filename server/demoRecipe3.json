@@ -1,0 +1,114 @@
+{
+  "@context": "http:\/\/schema.org",
+  "@type": "Recipe",
+  "image": "https:\/\/img.chefkoch-cdn.de\/rezepte\/2708511423773201\/bilder\/1328960\/crop-960x540\/brioche-burger-bun.jpg",
+  "recipeCategory": "Hauptmahlzeit",
+  "recipeIngredient": [
+    "200 ml Wasser , warmes",
+    "4 EL Milch",
+    "1 W\u00fcrfel Hefe , frisch",
+    "35 g Zucker",
+    "8 g Salz",
+    "80 g Butter , weiche",
+    "500 g Weizenmehl Type 550",
+    "1 Ei(er)",
+    "Mehl f\u00fcr die Arbeitsfl\u00e4che und die H\u00e4nde",
+    "1 Ei(er)",
+    "2 EL Milch",
+    "2 EL Wasser",
+    "Sesam"
+  ],
+  "name": "Brioche Burger Bun",
+  "description": "Brioche Burger Bun - \u00e0 la BBQ Pit, f\u00fcr 10 St\u00fcck. \u00dcber 156 Bewertungen und f\u00fcr super befunden. Mit \u25ba Portionsrechner \u25ba Kochbuch \u25ba Video-Tipps!",
+  "recipeInstructions": [
+    "Das warme Wasser und die Milch in eine Sch\u00fcssel geben, den Zucker untermischen und den Hefew\u00fcrfel hineinbr\u00f6seln. 5 Minuten stehen lassen. Bitte keine Trockenhefe verwenden, damit gehen die Buns nicht so sch\u00f6n auf und werden nicht so fluffig.",
+    "Dann Mehl, Salz, ein Ei und die weiche Butter dazugeben und alles zu einem geschmeidigen Teig verkneten, entweder mit den H\u00e4nden oder mit der K\u00fcchenmaschine. Den Teig abgedeckt an einem warmen Ort etwa 1 Stunde gehen lassen. Er muss sein Volumen deutlich vergr\u00f6\u00dfern.",
+    "Dann aus dem Teig Buns formen. Ca. 90 Gramm Teig pro Bun in den bemehlten Handinnenfl\u00e4chen zu einer gleichm\u00e4\u00dfigen runden Kugel rollen und diese dann auf einem mit Backpapier belegten Backblech zu einer flachen Scheibe mit 8 \u2013 9 cm Durchmesser pressen. Das ergibt 10 Buns. Die Teiglinge m\u00fcssen jetzt nochmal eine Stunde gehen. Das ist besonders wichtig, denn sonst bekommt man keine fluffigen Buns.",
+    "Ein Ei mit 2 EL Wasser und 2 EL Milch verquirlen und die Buns nach der Gehzeit damit bestreichen und mit Sesam bestreuen.",
+    "Die Buns im auf 200 Grad Ober-\/Unterhitze vorgeheizten Backofen etwa 16 - 20 Minuten backen, bis die Oberfl\u00e4che goldbraun ist. Aus dem Ofen holen und auf einem Gitterost ausk\u00fchlen lassen."
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "schanionkel"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chefkoch.de"
+  },
+  "datePublished": "2015-03-11",
+  "prepTime": "PT0H30M0S",
+  "cookTime": "PT0H20M0S",
+  "totalTime": "PT2H50M0S",
+  "recipeYield": 1,
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 156,
+    "ratingValue": 4.73,
+    "reviewCount": 126,
+    "worstRating": 0,
+    "bestRating": 5
+  },
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "2926 kcal",
+    "proteinContent": "81,96g",
+    "fatContent": "95,26g",
+    "carbohydrateContent": "426,35g"
+  },
+  "keywords": "",
+  "reviews": [
+    {
+      "@type": "Review",
+      "reviewBody": "Die Br\u00f6tchen sind super aufgegangen und total lecker werde nie mehr Burger Br\u00f6tchen kaufen 5 Sterne",
+      "datePublished": "2021-04-13",
+      "author": {
+        "@type": "Person",
+        "name": "Lissl"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Total leckeres Rezept! Schon mehrfach gemacht! Mein Problem ist aber, dass die nie aufgehen im Backofen. Ich mache es genau wie im Rezept beschrieben und der Teig verdreifacht auch sein Volumen, aber sobald ich sie portioniert habe gehen sie nicht mehr auf und auch im Ofen nur minimal... Das ist wirklich schade. Ich mache sie trotzdem, weil sie sehr lecker sind, aber ich w\u00fcrde mich schon freuen, wenn sie auch richtig fluffig w\u00fcrden. Kann jemand helfen?",
+      "datePublished": "2021-04-02",
+      "author": {
+        "@type": "Person",
+        "name": "MaxC87"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Richtig geile Buns. Auch f\u00fcr Leute die sonst nicht viel backen einfach zu machen...gelingen immer",
+      "datePublished": "2021-03-30",
+      "author": {
+        "@type": "Person",
+        "name": "sascha0680"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Wirklich sehr lecker Deine Buns! Total fluffig! Ich habe sie schon \u00f6fter gemacht. Sie gelingen immer! Die 90 Gramm passen von der Gr\u00f6\u00dfe her perfekt zum Burger! Habe sie auch schon als 30 Gramm Buns f\u00fcrs Raclette gemacht! Die Kids haben sich drauf gest\u00fcrzt!!! Das Rezept war wirklich ein Gl\u00fccksgriff!!!",
+      "datePublished": "2021-03-26",
+      "author": {
+        "@type": "Person",
+        "name": "teufelsk\u00fcche25"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Machen die Buns schon ewig und sie klappten immer super, die letzten beiden Male sind sie auf dem Blech aufgegangen und im Ofen dann zu Fladen geworden. Hat jemand einen Tipp, was schief gelaufen ist????",
+      "datePublished": "2021-03-13",
+      "author": {
+        "@type": "Person",
+        "name": "svenjabe"
+      }
+    }
+  ],
+  "tool": [],
+  "url": "https:\/\/www.chefkoch.de\/rezepte\/2708511423773201\/Brioche-Burger-Bun.html?utm_medium=sharing",
+  "dateModified": "2023-08-09T10:13:40+0000",
+  "dateCreated": "2021-04-17T11:37:50+0000",
+  "id": "2298",
+  "printImage": true,
+  "imageUrl": "\/apps\/cookbook\/webapp\/recipes\/2298\/image?size=full"
+}

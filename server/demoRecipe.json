@@ -1,0 +1,115 @@
+{
+  "@context": "http:\/\/schema.org",
+  "@type": "Recipe",
+  "image": "https:\/\/img.chefkoch-cdn.de\/rezepte\/372401122971871\/bilder\/1363499\/crop-960x540\/aioli.jpg",
+  "recipeCategory": "Vegetarisch",
+  "suitableForDiet": "Vegetarisch",
+  "recipeIngredient": [
+    "250 ml Raps\u00f6l",
+    "1 Ei(er)",
+    "1 EL Essig",
+    "1 TL Zucker",
+    "\u00bd TL Salz",
+    "1 TL Senf",
+    "3 Zehe\/n Knoblauch"
+  ],
+  "name": "Aioli",
+  "description": "Aioli. \u00dcber 1154 Bewertungen und f\u00fcr raffiniert befunden. Mit \u25ba Portionsrechner \u25ba Kochbuch \u25ba Video-Tipps! Jetzt entdecken und ausprobieren!",
+  "recipeInstructions": [
+    "Darauf achten, dass alle Zutaten in etwa die gleiche Temperatur haben.",
+    "Ei, Essig, Zucker, Salz, Senf und Knoblauch mit dem Mixstab p\u00fcrieren. Raps\u00f6l langsam dazugeben und mixen, bis die Masse steif ist."
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "manusch"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chefkoch.de"
+  },
+  "datePublished": "2005-08-03",
+  "prepTime": null,
+  "totalTime": null,
+  "recipeYield": 1,
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 1154,
+    "ratingValue": 4.73,
+    "reviewCount": 732,
+    "worstRating": 0,
+    "bestRating": 5
+  },
+  "video": [
+    {
+      "@type": "VideoObject",
+      "name": "Video zu Aioli",
+      "description": "Video zu Aioli",
+      "thumbnailUrl": "https:\/\/static.chefkoch-cdn.de\/images\/crop-960x540\/ck.de\/videos\/thumbs\/4400-org.jpg",
+      "contentUrl": "https:\/\/www.chefkoch.de\/rezepte\/372401122971871\/Aioli.html",
+      "embedUrl": "https:\/\/video.chefkoch-cdn.de\/ck.de\/videos\/4400-video.mp4",
+      "uploadDate": "2005-08-03"
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation",
+    "servingSize": "1",
+    "calories": "2149 kcal",
+    "proteinContent": "9,37g",
+    "fatContent": "234,17g",
+    "carbohydrateContent": "9,76g"
+  },
+  "keywords": "Vegetarisch,Saucen,Dips,einfach,ketogen,Low Carb",
+  "reviews": [
+    {
+      "@type": "Review",
+      "reviewBody": "Ich habe das 1. Mal Aioli gemacht und war begeistert, wie einfach und vor allem super lecker die war. Es wird definitiv keine gekaufte Aioli mehr bei uns geben",
+      "datePublished": "2024-01-31",
+      "author": {
+        "@type": "Person",
+        "name": "Kr\u00e4uteehexe"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Hallo, hat wunderbar geklappt und schmeckt super. Kann mir jemand sagen wie lange die Aioli im K\u00fchlschrank h\u00e4lt? \r\nLiebe Gr\u00fc\u00dfe ",
+      "datePublished": "2024-01-27",
+      "author": {
+        "@type": "Person",
+        "name": "BZW"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Ich bin begeistert, alles nach Rezept gemacht, schmeckt sehr gut, \u00d6lmenge passe ich der Konsistenz an",
+      "datePublished": "2024-01-07",
+      "author": {
+        "@type": "Person",
+        "name": "humpy135"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Ich mag pers\u00f6nlich Zitronensaft in der aioli lieber als Essig. Aber ansonsten ist sie gelingsicher! \ud83d\udc4d",
+      "datePublished": "2023-12-31",
+      "author": {
+        "@type": "Person",
+        "name": "Jacki_90"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Habe mich an die Tipps gehalten: Ei nicht zu frisch, mit allem verquirlen ausser Essig und \u00d6l. Dann erst Essig unterr\u00fchren und die komplette Menge \u00d6l obendrauf. Mit dem P\u00fcrierstab von unten nach oben hochziehen.... fertig ist die Aioli ;-)hat super geklappt ",
+      "datePublished": "2023-12-30",
+      "author": {
+        "@type": "Person",
+        "name": "Rockoonline"
+      }
+    }
+  ],
+  "id": "",
+  "tool": [],
+  "url": "https:\/\/www.chefkoch.de\/rezepte\/372401122971871\/Aioli.html",
+  "cookTime": null,
+  "dateModified": "2024-02-17T15:47:39+0000",
+  "dateCreated": "2024-02-17T15:47:39+0000"
+}

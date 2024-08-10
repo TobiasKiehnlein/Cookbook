@@ -1,0 +1,16 @@
+.backButton {
+	position: fixed;
+	z-index: 20;
+	top: 20px;
+	left: 20px;
+	background: #eba98d;
+	color: white;
+	border-radius: 99999px;
+	aspect-ratio: 1;
+	border-style: solid;
+	border-color: white;
+	&:hover {
+		cursor: pointer;
+		filter: drop-shadow(0 0 10px #3338);
+	}
+}

@@ -1,0 +1,129 @@
+{
+  "@context": "http:\/\/schema.org",
+  "@type": "Recipe",
+  "author": {
+    "@type": "Person",
+    "name": "VanessaV"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Chefkoch.de"
+  },
+  "datePublished": "2015-04-16",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": 3452,
+    "ratingValue": 4.84,
+    "reviewCount": 1648,
+    "worstRating": 0,
+    "bestRating": 5
+  },
+  "video": [
+    {
+      "@type": "VideoObject",
+      "name": "Video zu Indisches Butter Chicken aus dem Ofen",
+      "description": "Video zu Indisches Butter Chicken aus dem Ofen",
+      "thumbnailUrl": "https:\/\/static.chefkoch-cdn.de\/images\/crop-960x540\/ck.de\/videos\/thumbs\/3484-org.jpg",
+      "contentUrl": "https:\/\/www.chefkoch.de\/rezepte\/2766911428603391\/Indisches-Butter-Chicken-aus-dem-Ofen.html",
+      "embedUrl": "https:\/\/video.chefkoch-cdn.de\/ck.de\/videos\/3484-video.mp4",
+      "uploadDate": "2015-04-16"
+    }
+  ],
+  "reviews": [
+    {
+      "@type": "Review",
+      "reviewBody": "Super Rezept, schmeckt gut, auf jedem Fall werden wir nochmals kochen:)",
+      "datePublished": "2024-03-13",
+      "author": {
+        "@type": "Person",
+        "name": "mirtoncha"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Warum soll man den Sud nicht mitverwenden??",
+      "datePublished": "2024-03-13",
+      "author": {
+        "@type": "Person",
+        "name": "doris_nowka53"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Super Rezept! K\u00f6nnte f\u00fcr unseren Geschmack etwas sch\u00e4rfer sein. Ich habe mit Cyan Cayenne nachgew\u00fcrzt, ansonsten alles nach Rezept. Klasse!!!",
+      "datePublished": "2024-03-11",
+      "author": {
+        "@type": "Person",
+        "name": "chevy3005"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Ich liebe dieses Rezept. Das H\u00e4hnchen ist butterweich. Ich gebe noch 2 EL unge\u00fc\u00dfte Erdnussbutter dazu als kleine Extra Note. ",
+      "datePublished": "2024-03-01",
+      "author": {
+        "@type": "Person",
+        "name": "Stefy-Rieri"
+      }
+    },
+    {
+      "@type": "Review",
+      "reviewBody": "Heute genau so gekocht, super lecker, uns pers\u00f6nlich etwas zu scharf. Das n\u00e4chste Mal etwas weniger Cayenne und dann passt es f\u00fcr uns. Wird definitiv wieder gekocht. ",
+      "datePublished": "2024-02-21",
+      "author": {
+        "@type": "Person",
+        "name": "Pitta"
+      }
+    }
+  ],
+  "nutrition": {
+    "@type": "NutritionInformation"
+  },
+  "dateCreated": "2024-03-14T12:20:13+0000",
+  "printImage": true,
+  "id": "37815",
+  "name": "Butter Chicken aus dem Ofen",
+  "imageUrl": "\/apps\/cookbook\/webapp\/recipes\/37815\/image?size=full",
+  "recipeCategory": "Schmoren",
+  "description": "reicht f\u00fcr (gut drei) * (Kathi + Tobi)\nf\u00fcr eine Mahlzeit Kathi und Tobi ben\u00f6tigt es ca 1,5 Cups Reis",
+  "recipeIngredient": [
+    "1.000 g H\u00e4hnchenbrust",
+    "2 TL Paprikapulver",
+    "2 EL Limonensaft oder Zitronensaft",
+    "2 TL Salz",
+    "2 Becher Joghurt (150 g)",
+    "2 TL Cayennepfeffer",
+    "2 EL Garam Masala",
+    "2 Zehe\/n Knoblauch",
+    "2 St\u00fcck(e) Ingwer , daumengro\u00df",
+    "8 EL Butter",
+    "2 Zwiebel(n)",
+    "1.000 g Tomaten, passierte",
+    "2 TL Zimt",
+    "2 TL Salz",
+    "4 TL Cayennepfeffer",
+    "2 St\u00fcck(e) Ingwer , daumengro\u00df",
+    "2 Zehe\/n Knoblauch",
+    "2 EL Honig",
+    "300 ml Sahne",
+    "einige Korianderbl\u00e4tter , optional"
+  ],
+  "recipeInstructions": [
+    "Die H\u00e4hnchenbrust in St\u00fccke schneiden.",
+    "Aus Paprikapulver, Limonen- bzw. Zitronensaft, Salz, Joghurt, Cayennepfeffer, Garam Masala, Ingwer und Knoblauchzehe eine Marinade herstellen. Das Fleisch mit der Marinade mischen. Mindestens eine Stunde einziehen lassen.",
+    "Tipp: Besser ist es, das Fleisch bereits am Vortag zu marinieren und \u00fcber Nacht in den K\u00fchlschrank zu stellen.",
+    "Den Ofen auf 200 \u00b0C Ober-\/Unterhitze vorheizen, dann das Fleisch in einer Auflaufform f\u00fcr 25 Minuten darin garen.",
+    "Die Zwiebel klein hacken und in 2 EL Butter glasig anschwitzen. Die passierten Tomaten, den Zimt, Salz, Cayennepfeffer, Ingwer und Knoblauchzehe hinzugeben. Alles 20 Minuten mit Deckel und bei niedriger Temperatur k\u00f6cheln lassen. Gelegentlich umr\u00fchren. Nun die restlichen 2 EL Butter, den Honig und die Sahne hinzuf\u00fcgen, weitere 3 Minuten k\u00f6cheln. Das Fleisch aus der Marinade nehmen, in die So\u00dfe geben, kurz umr\u00fchren und 2 Minuten mitk\u00f6cheln lassen.",
+    "Dazu passt Reis oder Naan.",
+    "Tipp: Wer gerne Koriandergr\u00fcn mag, der kann ganz am Ende noch ein paar frisch gehackte Bl\u00e4tter hinzuf\u00fcgen."
+  ],
+  "tool": [],
+  "recipeYield": 4,
+  "prepTime": null,
+  "cookTime": null,
+  "totalTime": null,
+  "keywords": "Indien,Asien,Hauptspeise,Gefl\u00fcgel,Schmoren",
+  "image": "https:\/\/img.chefkoch-cdn.de\/rezepte\/2766911428603391\/bilder\/1038078\/crop-960x540\/indisches-butter-chicken-aus-dem-ofen.jpg",
+  "url": "https:\/\/www.chefkoch.de\/rezepte\/2766911428603391\/Indisches-Butter-Chicken-aus-dem-Ofen.html?portionen=4",
+  "dateModified": "2024-03-14T22:30:37+0000"
+}
